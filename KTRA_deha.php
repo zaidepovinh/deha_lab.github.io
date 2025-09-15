@@ -1,4 +1,4 @@
-
+<!-- Nguyễn Việt Dũng - K59SN1 - 23D192007 -->
 <!-- Câu 8: Viết function giải phương trình bậc 2 -->
 <?php
 function giaiPTBac2($a, $b, $c) {
